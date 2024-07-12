@@ -1,13 +1,13 @@
-#  How to take input in python
+# How to take input in Python
 
-# In Strings
-name = input("name : ")
-print("Hello", name)
+# Taking input as a string
+name = input("name : ")  # The input() function reads a line from input and returns it as a string
+print("Hello", name)  # Print the greeting along with the name
 
-# In Integer
-age = input("age : ")
-print ("Age", age)
+# Taking input as an integer
+age = int(input("age : "))  # Convert the input string to an integer using int()
+print("Age", age)  # Print the age
 
-# In Float 
-price = input("price : ")
-print("Price", price)
+# Taking input as a float
+price = float(input("price : "))  # Convert the input string to a float using float()
+print("Price", price)  # Print the price
