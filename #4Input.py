@@ -1,4 +1,5 @@
 # How to take input in Python
+# By default input always take string values
 
 # Taking input as a string
 name = input("name : ")  # The input() function reads a line from input and returns it as a string

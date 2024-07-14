@@ -35,6 +35,7 @@ print(eat)  # Print "Yes" if food is "cake", otherwise print "No"
 print("sweet") if food == "cake" or food == "jalebi" else print("not sweet")
 # Another example: print "sweet" if food is "cake" or "jalebi", otherwise print "not sweet"
 
+
 # Another way of writing ternary statements
 # Clever Ternary Operator
 
